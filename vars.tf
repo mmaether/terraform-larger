@@ -9,5 +9,3 @@ variable "availability_zones" {
 variable "alb_name" {
   default = "Shorn Sheep ALB"
 }
-
-variable 
